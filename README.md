@@ -1,1 +1,1 @@
-# Trabalho-Pr-tico-1-Sistemas-Digitais
+# Trabalho-Prático-1-Sistemas-Digitais
